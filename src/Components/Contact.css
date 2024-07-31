@@ -1,0 +1,49 @@
+
+
+#f1 {
+    width: 400px;
+    border: 2px solid brown;
+    border-radius: 5px;
+    background-color:lightskyblue;
+    text-align: center;
+    padding: 20px;
+    float: left;
+
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .ex {
+    background-color:brown;
+    color: yellow;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 40px;
+    
+    
+  }
+  .f{
+    background-image: url('../imajes/con1.jpg');
+    height: 100vh;
+    padding: 20px;
+    background-size: cover;
+
+  }
+  
+  
+  
+  
+  

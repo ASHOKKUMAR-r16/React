@@ -1,0 +1,46 @@
+.rta{
+  background-image: url("../imajes/weather-hd.jpg");
+  background-size: cover;
+  font-family: "Oswald", sans-serif;
+  height: 100vh;
+}
+ 
+.container-custom {
+  max-width: 1000px; 
+  margin-top: 30px;
+}
+ 
+.input-group {
+  margin-bottom: 15px;
+}
+ 
+.btn-custom {
+  border-radius: 20px;
+}
+ 
+.card-custom {
+  padding: 30px;
+  margin-bottom: 30px;
+}
+ 
+.weather-icon {
+  width: 50px;
+  height: 50px;
+}
+ 
+@media (max-width: 768px) {
+  .container-custom {
+    margin-top: 15px;
+  }
+}
+ 
+@media (max-width: 576px) {
+  .card-custom {
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+}
+#ax{
+  width: auto;
+  height:auto;
+}

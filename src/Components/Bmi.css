@@ -1,0 +1,40 @@
+
+
+
+.App {
+
+    max-width: 400px;
+    border: 2px solid brown;
+    
+    border-radius: 8px;
+    text-align: center;
+    background-color:lightblue;
+    padding: 20px;
+    
+    
+
+  }
+  
+  
+  .input-group {
+    margin-bottom: 10px;
+  }
+  
+  .input-group label {
+    margin-right: 10px;
+  }
+  .g{
+    background-image: url('../imajes/bm.jpg');
+    height: 100vh;
+    padding: 20px;
+
+  }
+  #vc{
+    background-color:blueviolet;
+    color: yellow;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 40px;
+  }
+  
